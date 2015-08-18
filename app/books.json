@@ -1,0 +1,90 @@
+{
+	"books": [
+		{
+			"title": "Getting Started with Gulp",
+			"author": "Travis Maynard",
+			"description": "",
+			"img": "gettingStartedWithGulp",
+			"link": "https://goo.gl/tzAE05"
+		},
+		{
+			"title": "Getting Started with Grunt",
+			"author": "Jaime Pillora",
+			"description": "",
+			"img": "gettinStartedWithGrunt",
+			"link": "https://goo.gl/g8D6Cu"
+		},
+		{
+			"title": "JavaScript for Kids",
+			"author": "Nick Morgan",
+			"description": "",
+			"img": "jsForKids",
+			"link": "https://goo.gl/RygUFR"
+		},
+		{
+			"title": "Object Oriented PHP",
+			"author": "Peter Lavin",
+			"description": "",
+			"img": "ooPHP",
+			"link": "https://goo.gl/A2Wsai"
+		},
+		{
+			"title": "JavaScript: The Good Parts",
+			"author": "Douglas Crockford",
+			"description": "",
+			"img": "jsTheGoodParts",
+			"link": "http://goo.gl/JsLX0W"
+		},
+		{
+			"title": "Secrets of the JavaScript Ninja",
+			"author": "John Resig and Bear Bibeault",
+			"description": "",
+			"img": "secretsOfTheJSNinja",
+			"link": "http://goo.gl/SMGQd7"
+		},
+		{
+			"title": "Mastering Grunt",
+			"author": "Daniel Li",
+			"description": "",
+			"img": "masteringGrunt",
+			"link": "https://goo.gl/F8MzxY"
+		},
+		{
+			"title": "AngularJS",
+			"author": "Brad Green & Shyam Seshadri",
+			"description": "",
+			"img": "AngularJS",
+			"link": "http://goo.gl/lKp5TB"
+		},
+		{
+			"title": "Learning AngularJS",
+			"author": "Brad Dayley",
+			"description": "",
+			"img": "learningAngularJS",
+			"link": "http://goo.gl/p8u0gH"
+		}
+	],
+	"videos": [
+		{
+			"title": "Learning AngularJS Training Video",
+			"author": "Matt Frisbie",
+			"description": "",
+			"img": "learningAngularJSVideo",
+			"link": "http://goo.gl/98lwl6"
+		},
+		{
+			"title": "Rapid Gulp",
+			"author": "Matthew Brandly",
+			"description": "",
+			"img": "rapidGulp",
+			"link": "https://goo.gl/BXRvhG"
+		},
+		{
+			"title": "Douglas Crockford JavaScript Master Class",
+			"author": "Douglas Crockford",
+			"description": "",
+			"img": "douglasCrockfordJSMasterClass",
+			"link": "http://goo.gl/y3mvaO"
+		}
+	]
+}
