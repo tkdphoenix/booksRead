@@ -76,7 +76,7 @@ booksApp.controller('bookListCtrl', function($scope){
 				"author": "Brad Green & Shyam Seshadri",
 				"publisher": "O'Reilly",
 				"description": "",
-				"img": "AngularJS",
+				"img": "angularJS",
 				"link": "http://goo.gl/YNJcLr"
 			},
 			{
