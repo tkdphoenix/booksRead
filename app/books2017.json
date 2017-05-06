@@ -1,0 +1,27 @@
+{
+	"books": [
+		{
+			"title": "REST API Design Rulebook",
+			"author": "Mark Masse",
+			"description": "",
+			"img": "RESTAPIDesignRulebook",
+			"link": "http://goo.gl/p8u0gH"
+		}
+	],
+	"videos": [
+		{
+			"title": "PHP Security",
+			"author": "find it",
+			"description": "",
+			"img": "PHPSecurity",
+			"link": "http://example.com"
+		},
+		{
+			"title": "Node.js for PHP Developers",
+			"author": "Daniel Stern",
+			"description": "",
+			"img": "nodeJsForPHPDevelopers",
+			"link": "https://goo.gl/DKLWlf"
+		}
+	]
+}
